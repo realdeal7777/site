@@ -1,0 +1,14 @@
+*{
+    background: lightblue;
+    color: white;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+}
+html{
+    overflow-x: hidden;
+}
+.world{
+    border-radius: .5rem;
+}
